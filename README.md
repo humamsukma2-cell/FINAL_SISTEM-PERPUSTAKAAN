@@ -177,7 +177,7 @@ Fitur yang tersedia:
 Clone repository dari GitHub:
 
 ```bash
-git clone link-repository-anda
+git (https://github.com/humamsukma2-cell/FINAL_SISTEM-PERPUSTAKAAN.git)
 ```
 
 Masuk ke folder project:

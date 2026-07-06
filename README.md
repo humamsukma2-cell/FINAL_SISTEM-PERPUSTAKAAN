@@ -4,6 +4,10 @@ Sistem Informasi Perpustakaan adalah aplikasi berbasis Laravel yang digunakan un
 
 ---
 
+- Nama  : Muhammad Humam Sukma
+- NIM   : 60324087
+- Kelas : Pemrograman WEB 2 (B)
+
 ## 5 Fitur Utama
 
 ### 1. Authentication System
